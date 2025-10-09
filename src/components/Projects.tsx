@@ -102,7 +102,7 @@ const Projects = () => {
                     <Badge 
                       key={skillIndex}
                       variant="secondary"
-                      className="bg-primary-soft text-primary border-0"
+                      className="bg-primary-soft text-foreground border-0"
                     >
                       {skill}
                     </Badge>
