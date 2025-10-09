@@ -12,7 +12,7 @@ const Hero = () => {
           {/* Sun emoji with glow effect */}
           <div className="text-8xl mb-8 animate-bounce">☀️</div>
           
-          <h1 className="text-5xl md:text-7xl font-bold mb-6 bg-gradient-sunny bg-clip-text text-transparent leading-tight pb-2">
+          <h1 className="text-5xl md:text-7xl font-bold mb-6 bg-gradient-sunny bg-clip-text text-transparent leading-tight pb-4">
             Hi, I'm Sunny
           </h1>
           
