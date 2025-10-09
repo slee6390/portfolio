@@ -9,7 +9,7 @@ const Contact = () => {
         <div className="max-w-4xl mx-auto text-center">
           <div className="mb-16">
             <div className="text-6xl mb-6">☀️</div>
-            <h2 className="text-4xl md:text-5xl font-bold mb-6 bg-gradient-sunny bg-clip-text text-transparent">
+            <h2 className="text-4xl md:text-5xl font-bold mb-6 bg-gradient-sunny bg-clip-text text-transparent leading-tight pb-2">
               Let's Connect
             </h2>
             <p className="text-xl text-muted-foreground max-w-2xl mx-auto">

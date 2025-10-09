@@ -23,7 +23,7 @@ const SchizophreniaResearch = () => {
           <div className="mb-8">
             <div className="flex items-center gap-3 mb-4">
               <span className="text-5xl">🧬</span>
-              <h1 className="text-4xl md:text-5xl font-bold bg-gradient-sunny bg-clip-text text-transparent">
+              <h1 className="text-4xl md:text-5xl font-bold bg-gradient-sunny bg-clip-text text-transparent leading-tight pb-2">
                 Schizophrenia Research
               </h1>
             </div>
