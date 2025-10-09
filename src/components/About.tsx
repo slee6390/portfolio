@@ -41,7 +41,7 @@ const About = () => {
               
               <div className="bg-gradient-peach p-6 rounded-lg mt-8 mb-8">
                 <p className="text-lg leading-relaxed text-foreground font-medium">
-                  At heart, I believe in <span className="text-primary font-bold">leading with light</span>: 
+                  At heart, I believe in <span className="text-foreground font-bold">leading with light</span>: 
                   to design strategies that don't just solve problems, but also open doors, spark growth, 
                   and bring a Sunny outlook to whatever comes next. ☀️
                 </p>
