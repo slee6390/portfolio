@@ -18,7 +18,7 @@ const App = () => (
     <TooltipProvider>
       <Toaster />
       <Sonner />
-      <BrowserRouter basename="/sunny-outlook-portfolio">
+      <BrowserRouter basename="/portfolio">
         <ScrollToTop />
         <Routes>
           <Route path="/" element={<Index />} />
