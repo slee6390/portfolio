@@ -127,22 +127,22 @@ const BerkeleyStudentPortal = () => {
             <Card className="p-8 shadow-soft">
               <h2 className="text-2xl font-bold text-primary mb-4">Skills Applied</h2>
               <div className="flex flex-wrap gap-2">
-                <Badge variant="secondary" className="bg-primary-soft text-primary">
+                <Badge variant="secondary" className="bg-primary-soft text-foreground border-0">
                   AI Integration
                 </Badge>
-                <Badge variant="secondary" className="bg-primary-soft text-primary">
+                <Badge variant="secondary" className="bg-primary-soft text-foreground border-0">
                   Product Strategy
                 </Badge>
-                <Badge variant="secondary" className="bg-primary-soft text-primary">
+                <Badge variant="secondary" className="bg-primary-soft text-foreground border-0">
                   System Redesign
                 </Badge>
-                <Badge variant="secondary" className="bg-primary-soft text-primary">
+                <Badge variant="secondary" className="bg-primary-soft text-foreground border-0">
                   Educational Platform
                 </Badge>
-                <Badge variant="secondary" className="bg-primary-soft text-primary">
+                <Badge variant="secondary" className="bg-primary-soft text-foreground border-0">
                   User Research
                 </Badge>
-                <Badge variant="secondary" className="bg-primary-soft text-primary">
+                <Badge variant="secondary" className="bg-primary-soft text-foreground border-0">
                   Usability Testing
                 </Badge>
               </div>

@@ -123,22 +123,22 @@ const AcademicTeaching = () => {
             <Card className="p-8 shadow-soft">
               <h2 className="text-2xl font-bold text-primary mb-4">Skills Applied</h2>
               <div className="flex flex-wrap gap-2">
-                <Badge variant="secondary" className="bg-primary-soft text-primary">
+                <Badge variant="secondary" className="bg-primary-soft text-foreground border-0">
                   Curriculum & Module Design
                 </Badge>
-                <Badge variant="secondary" className="bg-primary-soft text-primary">
+                <Badge variant="secondary" className="bg-primary-soft text-foreground border-0">
                   Instructional Design
                 </Badge>
-                <Badge variant="secondary" className="bg-primary-soft text-primary">
+                <Badge variant="secondary" className="bg-primary-soft text-foreground border-0">
                   Student Feedback Analysis
                 </Badge>
-                <Badge variant="secondary" className="bg-primary-soft text-primary">
+                <Badge variant="secondary" className="bg-primary-soft text-foreground border-0">
                   Large Group & Personalized Teaching
                 </Badge>
-                <Badge variant="secondary" className="bg-primary-soft text-primary">
+                <Badge variant="secondary" className="bg-primary-soft text-foreground border-0">
                   Communication & Simplification
                 </Badge>
-                <Badge variant="secondary" className="bg-primary-soft text-primary">
+                <Badge variant="secondary" className="bg-primary-soft text-foreground border-0">
                   Cognitive Science Application
                 </Badge>
               </div>

@@ -145,25 +145,25 @@ const LearningAnalytics = () => {
             <Card className="p-8 shadow-soft">
               <h2 className="text-2xl font-bold text-primary mb-4">Skills Applied</h2>
               <div className="flex flex-wrap gap-2">
-                <Badge variant="secondary" className="bg-primary-soft text-primary">
+                <Badge variant="secondary" className="bg-primary-soft text-foreground border-0">
                   Data Analysis
                 </Badge>
-                <Badge variant="secondary" className="bg-primary-soft text-primary">
+                <Badge variant="secondary" className="bg-primary-soft text-foreground border-0">
                   Product Strategy
                 </Badge>
-                <Badge variant="secondary" className="bg-primary-soft text-primary">
+                <Badge variant="secondary" className="bg-primary-soft text-foreground border-0">
                   Healthcare Systems
                 </Badge>
-                <Badge variant="secondary" className="bg-primary-soft text-primary">
+                <Badge variant="secondary" className="bg-primary-soft text-foreground border-0">
                   Patient Experience
                 </Badge>
-                <Badge variant="secondary" className="bg-primary-soft text-primary">
+                <Badge variant="secondary" className="bg-primary-soft text-foreground border-0">
                   User Research
                 </Badge>
-                <Badge variant="secondary" className="bg-primary-soft text-primary">
+                <Badge variant="secondary" className="bg-primary-soft text-foreground border-0">
                   Dashboard Design
                 </Badge>
-                <Badge variant="secondary" className="bg-primary-soft text-primary">
+                <Badge variant="secondary" className="bg-primary-soft text-foreground border-0">
                   Feedback Synthesis
                 </Badge>
               </div>

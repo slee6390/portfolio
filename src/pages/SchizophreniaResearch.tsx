@@ -137,22 +137,22 @@ const SchizophreniaResearch = () => {
             <Card className="p-8 shadow-soft">
               <h2 className="text-2xl font-bold text-primary mb-4">Skills Applied</h2>
               <div className="flex flex-wrap gap-2">
-                <Badge variant="secondary" className="bg-primary-soft text-primary">
+                <Badge variant="secondary" className="bg-primary-soft text-foreground border-0">
                   Qualitative Research
                 </Badge>
-                <Badge variant="secondary" className="bg-primary-soft text-primary">
+                <Badge variant="secondary" className="bg-primary-soft text-foreground border-0">
                   Quantitative Research
                 </Badge>
-                <Badge variant="secondary" className="bg-primary-soft text-primary">
+                <Badge variant="secondary" className="bg-primary-soft text-foreground border-0">
                   Website Development
                 </Badge>
-                <Badge variant="secondary" className="bg-primary-soft text-primary">
+                <Badge variant="secondary" className="bg-primary-soft text-foreground border-0">
                   Mental Health
                 </Badge>
-                <Badge variant="secondary" className="bg-primary-soft text-primary">
+                <Badge variant="secondary" className="bg-primary-soft text-foreground border-0">
                   Data Management
                 </Badge>
-                <Badge variant="secondary" className="bg-primary-soft text-primary">
+                <Badge variant="secondary" className="bg-primary-soft text-foreground border-0">
                   Research Communication
                 </Badge>
               </div>
