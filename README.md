@@ -1,10 +1,10 @@
 # Sunny's Portfolio
 
-A modern, responsive portfolio website showcasing Sunny's work as a people-centered strategist.
+A modern, responsive portfolio website showcasing my work.
 
 ## About
 
-This portfolio demonstrates Sunny's expertise in transforming insights into systems that keep people at the center, with a focus on creating outcomes where people recognize themselves in the narrative.
+This portfolio demonstrates my expertise in transforming insights into systems that keep people at the center, with a focus on creating outcomes where people recognize themselves in the narrative.
 
 ## Technologies Used
 
